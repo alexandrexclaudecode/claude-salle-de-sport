@@ -7,7 +7,9 @@
 
 ## 0. Ce sur quoi repose ce plan (et ses limites)
 
-- **Une seule photo** est rattachée aux Tanneurs de façon crédible : `references/force-one-machines-charge-guidee-vue-vitrine.jpg`, issue de la fiche Google Maps.
+- **Deux photos** sont rattachées aux Tanneurs de façon crédible, toutes deux issues de la fiche Google Maps : `references/force-one-machines-charge-guidee-vue-vitrine.jpg` et `references/poids-libres-bancs-halteres-colonne.jpg`.
+- Google Maps indique **« Étage 0 · Les Tanneurs »** : l'entrée du club est au niveau 0 du centre commercial. [CERTAIN]
+- Mise à jour : la photo des poids libres montre des bancs de développé couché et un double râtelier d'haltères **à côté** des poulies et des fresques jungle, face aux vitrines du mall. Une partie au moins des poids libres est donc au **même niveau que Force One**, ce qui contredit le plan R1 ci-dessous. Le plan sera corrigé avec plus de photos.
 - Les 8 autres photos trouvées sous l'étiquette « Tanneurs » sont des photos de marque recyclées ou prises dans un autre club (Kremlin-Bicêtre, La Réunion, Ajaccio). Elles sont dans `references/douteuses/` et ne servent **pas** à l'agencement. Le détail est dans `references/INDEX.md`.
 - La fiche officielle Tanneurs apporte des faits solides : **2 étages**, plateau de poids libres de **~700 m²**, **250 machines** Technogym et Hammer Strength, THE RIDE, THE BOXE, cours Les Mills, vestiaires avec douches, accès PMR.
 - ➜ **La position des zones est donc en grande partie DÉDUITE.** Le plan ci-dessous est un point de départ cohérent, pas un relevé.

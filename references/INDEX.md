@@ -17,6 +17,8 @@ Collecte du 18/11/2026.
 |---|---|---|---|---|
 | `force-one-machines-charge-guidee-vue-vitrine.jpg` | Photo de la fiche **Google Maps « One Fitness Club Lille Les Tanneurs »** (id photo Google `AF1QipNJ1iFKxLcplmEnYrC4S7a-nZ67EZJ4GMVqv_Lr`), reprise sur cmsbs.fr, page « salle-de-sport-one-fitness-club-lille-les-tanneurs » (qui donne bien l'adresse 80 rue Pierre Mauroy). Photo prise au smartphone (cadrage carré, rendu iPhone) : ce n'est pas une photo marketing. | Rangée d'environ 5 machines à charge guidée (plate-loaded) Technogym Pure Strength noir et rouge, disques noirs « TECHNOGYM 20 ». Au fond : grande structure multi-poulies / cage noire, rack d'haltères, colonnes noires rondes, plafond noir brut avec gaines apparentes, éclairage rouge en sous-face, spots sur rail. Sol en dalles de caoutchouc noir (~1 m × 1 m). Fresques jungle (léopard, éléphant ?) au fond à gauche. Une enseigne lumineuse « FORCE ONE » **lue à l'envers**, posée sur une vitrine : derrière, des commerces éclairés (jaune/orange). La salle donne donc sur une allée du centre commercial. | Plateau musculation « Force One » (charge guidée + poulies), côté vitrine sur le mall | Moyenne à bonne. Rattachement Google Tanneurs via un site tiers. Cohérent avec un club en galerie marchande. Pas trouvé ailleurs, donc pas une photo recyclée. |
 
+| `poids-libres-bancs-halteres-colonne.jpg` | **Photo principale de la fiche Google Maps « One Fitness Club Lille Les Tanneurs »** (80 rue Pierre Mauroy, « Étage 0 · Les Tanneurs »), publiée par le compte du club, datée de **juillet 2023**. Récupérée le 18/11/2026 en ouvrant la fiche publique dans un navigateur. | Bancs de développé couché Technogym rouges avec porte-disques et disques noirs « TECHNOGYM 20 ». Double râtelier d'haltères rouge en long, sur la gauche. Grosse colonne ronde noire. Au fond : structures multi-poulies, fresques jungle, vitrines sur le mall avec des commerces éclairés. Plafond noir, gaines rondes, éclairage rouge, spots sur rails. Sol en dalles de caoutchouc gris anthracite. | Poids libres (bancs + haltères), **contigus** à la zone poulies / Force One | **Bonne** : source directe, fiche Google du club. |
+
 ---
 
 ## 2. Photos douteuses (dossier `douteuses/`, NON utilisées comme référence d'agencement)
@@ -50,7 +52,7 @@ club (`twHea_7NUiY`, `lRYCOPTkHKY`), donc peut-être La Madeleine.
 
 | Source | Problème | Lien |
 |---|---|---|
-| Google Maps (photos propriétaire + visiteurs, 775 avis) | Page rendue en JavaScript. L'accès automatisé aux endpoints Google a été refusé par les règles de cette session. | https://www.google.com/maps/search/One+Fitness+Club+Lille+Les+Tanneurs+80+rue+Pierre+Mauroy |
+| Google Maps (photos propriétaire + visiteurs, 775 avis) | Ouvert dans un navigateur sans compte : Google affiche un **« affichage limité »** avec une seule photo (récupérée ci-dessus). La galerie complète demande d'être connecté à un compte Google. | https://www.google.com/maps/search/One+Fitness+Club+Lille+Les+Tanneurs+80+rue+Pierre+Mauroy |
 | Instagram du club | HTTP 429 (connexion exigée) | https://www.instagram.com/onefitnessclublillelestanneurs/ |
 | Facebook du club | HTTP 400 (connexion exigée) | https://www.facebook.com/onefitnessclublillelestanneurs/ |
 | PagesJaunes | HTTP 403 | https://www.pagesjaunes.fr/pros/63463766 |
